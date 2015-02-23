@@ -1,9 +1,25 @@
+
 body {
-  font-family: 'helvetica neue', arial, sans-serif;
+  font-family: 'helvetica neue', impact;
   font-weight: 300;
   background: url(white.png) repeat;
+font-size:110%;
+font-style: "courier";
+border-width: 2px;
+border-style: dotted;
+border-color: pink;
+float:right;
+ }
+
+ }
+ }
+ <style>
+ 
+</style>
 }
 #wrapper {
   width: 960px;
+  height: 500px;
   margin: 20px auto;
+  padding: 10px;
 }
