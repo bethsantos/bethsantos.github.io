@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Contact Beth</title>
+</head>
+<body>
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Beth Santos</title>
+  <!-- Latest compiled and minified CSS -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+          <style>
+              body{background:url(images/IMG_5953.jpg);
+              background-size:100%;
+              background-repeat:no-repeat}
+              .fa {color: #99E7DE}
+              .fa:hover {color: #33CFBE}
+          </style>
+    <div class="container">
+    <div class="row">
+        <div class="col-md-1">
+        </div>
+        <div class="col-md-3">
+          <table>
+          <tr><td height="200">
+    <th></th>
+
+  </tr>
+  <tr>
+    <td><h1><strong>Contact Beth</strong></h1></td>
+  </tr>
+
+</table>
+
+            <div>
+          
+            
+<form>
+  <div class="form-group">
+    <label for="exampleInputEmail1">Email address</label>
+    <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Enter email">
+  </div>
+  <div class="form-group">
+    <label for="exampleInputPassword1">Password</label>
+    <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password">
+  </div>
+  <div class="form-group">
+    <label for="exampleInputFile">File input</label>
+    <input type="file" id="exampleInputFile">
+    <p class="help-block">Example block-level help text here.</p>
+  </div>
+  <div class="checkbox">
+    <label>
+      <input type="checkbox"> Check me out
+    </label>
+  </div>
+  <button type="submit" class="btn btn-default">Submit</button>
+</form>
+        </div>
+        </div>
+
+        <div class="col-md-8">
+           
+        </div>
+    </div>
+
+    </div>
+    </div>
+<nav class="navbar navbar-default navbar-fixed-bottom">
+  <div class="container">
+    
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="#">Menu</a>
+    </div>
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class="active"><a href="#">Home <span class="sr-only">(current)</span></a></li>
+        <li><a href="#">About</a></li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Press <span class="caret"></span></a>
+          <ul class="dropdown-menu" role="menu">
+            <li><a href="#">Action</a></li>
+            <li><a href="#">Another action</a></li>
+            <li><a href="#">Something else here</a></li>
+            <li class="divider"></li>
+            <li><a href="#">Separated link</a></li>
+            <li class="divider"></li>
+            <li><a href="#">One more separated link</a></li>
+          </ul>
+          <li><a href="#">Work with Beth</a></li>
+          <li><a href="contact.html">Contact</a></li>
+        </li>
+      </ul>
+     
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="http://www.twitter.com/maximumbeth"><i class="fa fa-twitter-square fa-2x"></i></a></li>
+        <li><a href="http://www.facebook.com/bethsantos"><i class="fa fa-facebook-square fa-2x"></i></a></li>
+        <li><a href="http://www.linkedin.com/in/santosbeth"><i class="fa fa-linkedin-square fa-2x"></i></a></li>
+      
+          </ul>
+        </li>
+      </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+</nav>
+  </div>
+
+
+</nav>
+
+
+</body>
+
+</body>
+</html>
