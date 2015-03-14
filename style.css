@@ -1,8 +1,15 @@
 
-body {
+ h1 {font-family: 'Lobster Two', cursive;}
+ h2 {font-family: 'Lobster Two', cursive;}
+ h3 {font-family: 'Lobster Two', cursive;}
+ p {font-family: 'Oxygen', sans-serif;}
+
+ body {
+
   font-family: 'arial';
   font-weight: 300;
 font-size:150%;
-color: white;
+color: black;
 float:left;
  }
+
